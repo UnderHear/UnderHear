@@ -2,7 +2,7 @@
 
 #### 我使用的语言和框架 Languages & Frameworks I use
 
-[![My Skills](https://skillicons.dev/icons?i=ts,java,py,go,vue,react,c,nodejs,nextjs,spring,fastapi,tailwind,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,spring,vue,react,tailwind,prisma,nodejs,nextjs,py,fastapi,c,go)](https://skillicons.dev)
 
 #### 掌握的技能和使用的工具 skills & tools
 
