@@ -1,6 +1,6 @@
 #### 你好 Hello 🐱
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=UnderHear&show_icons=true)](https://github-stats-extended.vercel.app/api?username=UnderHear&show_icons=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=UnderHear&theme=light_github)](https://github-stats-extended.vercel.app/api?username=UnderHear&theme=light_github)
 
 #### 我使用的语言和框架 Languages & Frameworks I use
 
